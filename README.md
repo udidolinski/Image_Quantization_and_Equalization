@@ -4,4 +4,4 @@ In this project I implemented image quantization and equalization.
 ### Some results for the quantization: ###
 | ![original monkey](pics/monkey.jpg) |
 |:--:|
-| *Space* |
+| *Original image* | *99,422 different colors* |
